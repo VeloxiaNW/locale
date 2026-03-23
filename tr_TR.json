@@ -1,0 +1,12 @@
+{
+  "name": "tr-TR",
+  "prettyName": "Türkçe",
+  "flag": "https://cdn.veloxia.net/img/flags/turkish.png",
+  "translators": ["xRookieFight"],
+  "translations": {
+    "command.ping.name": "gecikme",
+    "command.ping.description": "Gecikmenizi gösterir.",
+
+    "message.ping.player": "§3Oyun içi gecikmeniz: §f%ping% ms"
+  }
+}
