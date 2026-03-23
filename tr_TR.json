@@ -2,7 +2,7 @@
   "name": "tr-TR",
   "prettyName": "Türkçe",
   "flag": "https://cdn.veloxia.net/img/flags/turkish.png",
-  "translators": ["xRookieFight"],
+  "translators": ["xRookieFight", "ayd1ndemirci"],
   "translations": {
     "command.ping.name": "gecikme",
     "command.ping.description": "Gecikmenizi gösterir.",

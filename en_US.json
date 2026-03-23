@@ -2,7 +2,7 @@
   "name": "en-US",
   "prettyName": "English",
   "flag": "https://cdn.veloxia.net/img/flags/english.png",
-  "translators": ["xRookieFight"],
+  "translators": ["xRookieFight", "ayd1ndemirci"],
   "translations": {
     "command.ping.name": "ping",
     "command.ping.description": "Shows your latency",
